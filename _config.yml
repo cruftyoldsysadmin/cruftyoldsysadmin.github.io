@@ -6,3 +6,9 @@ description: >
 baseurl: "cruftyoldsysadmin.github.io"
 github_username: cruftyoldsysadmin
 linkedin: nomadicengineer
+social-network-links:
+  rss: true
+  linkedin: nomadicengineer
+  timezone: "Asia/Istanbul"
+  paginate: 5
+  
